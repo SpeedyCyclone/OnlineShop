@@ -1,0 +1,79 @@
+.heading {
+  font-size: 25px;
+  color: var(--light-purple);
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.para {
+  font-size: 22px;
+  color: var(--dark-purple);
+  font-weight: 600;
+  margin-left: 20px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.banner {
+  width: 90%;
+  background-color: var(--dark-blue);
+  margin-top: 10px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.button {
+  padding: 12px;
+  background: none;
+  margin-top: 20px;
+  background-color: var(--dark-purple);
+  text-align: center;
+  color: var(--light-purple);
+  font-size: 20px;
+  font-weight: bold;
+  width: 50%;
+}
+
+.image {
+  float: right;
+  align-content: center;
+  margin-left: 95px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.categories {
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 40px;
+  text-align: center;
+  color: var(--light-purple);
+}
+
+.flexbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 200px;
+  text-decoration: none;
+  background-color: var(--light-blue);
+  margin: 20px;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--light-purple);
+}

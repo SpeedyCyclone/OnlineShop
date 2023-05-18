@@ -1,0 +1,65 @@
+:root {
+  --dark-blue: #0c134f;
+  --light-blue: #1d267d;
+  --dark-purple: #5c469c;
+  --light-purple: #d4adfc;
+}
+
+body {
+  font-family: "Lato";
+  margin: 0;
+  box-sizing: border-box;
+  background-color: var(--dark-blue);
+}
+
+ul {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.mensclothing {
+  background-color: darkred;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  width: 300px;
+}
+
+.jewelery {
+  background-color: darkblue;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  width: 300px;
+}
+
+.electronics {
+  background-color: darkorange;
+  text-align: center;
+  border-radius: 10px;
+  color: black;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  width: 300px;
+}
+
+.womensclothing {
+  background-color: purple;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  width: 300px;
+}

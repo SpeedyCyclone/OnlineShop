@@ -1,0 +1,25 @@
+.product {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: var(--light-purple);
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  font-size: 25px;
+  color: var(--light-purple);
+}
+
+.input {
+  margin: 10px;
+  height: 20px;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+}
